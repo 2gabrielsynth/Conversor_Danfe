@@ -1,0 +1,61 @@
+
+.icon1 {
+    max-width: 300px; /* Define a largura máxima da imagem */
+    height: auto; /* Mantém a proporção da imagem */
+    margin: 20px auto; /* Centraliza a imagem e adiciona margem */
+    display: block; /* Remove o espaço abaixo da imagem */
+    border-radius: 10px; /* Adiciona cantos arredondados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adiciona uma leve sombra */
+}
+/* styles.css */
+
+
+
+.my-class {
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    margin: 20px 0;
+}
+.my-texto_app {
+    font-size: 50px;
+    color: #31333F;
+    text-align: center;
+    margin: 20px 0;
+}
+.my-sub_app {
+    font-size: 25px;
+    color: #31333F;
+    text-align: center;
+    margin: 20px 0;
+}
+
+
+
+
+.stButton button {
+    background-color: #2351FB; /* Verde */
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+}
+.stButton button:hover {
+    background-color: #2352fb75; /* Verde */
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+}

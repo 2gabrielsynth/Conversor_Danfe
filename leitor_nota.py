@@ -16,7 +16,7 @@ st.markdown('<div class="my-texto_app">XML para DANFe/DACTe</div>', unsafe_allow
 st.markdown('<div class="my-sub_app">Converta o xml da NFe para DANFe ou o xml do CTe para DACTe</div>', unsafe_allow_html=True)
 
 
-st.image("Imgs/seo.png", caption="", width=300)  
+st.image("seo.png", caption="", width=300)  
 
 
 def selecionar_arquivo():
